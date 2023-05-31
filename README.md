@@ -12,5 +12,5 @@ Podczas usuwania rekordu spróbuj wyświetlić okno pozwalające na potwierdzeni
 
 ## Makieta
 
-![alt text](../Data/makieta1.PNG "Title")
-![alt text](../Data/makieta2.PNG "Title")
+![alt text](./Data/makieta1.png "Title")
+![alt text](./Data/makieta2.png "Title")
